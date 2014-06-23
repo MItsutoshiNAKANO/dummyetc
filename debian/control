@@ -10,7 +10,7 @@ Vcs-Git: git@github.com:MItsutoshiNAKANO/dummyetc.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/dummyetc.git;a=summary
 
 Package: dummyetc
-Architecture: any
-#Depends: ${shlibs:Depends}, ${misc:Depends}
+Architecture: noarch
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: create dummy config file. 
  (/etc/dummyetc.conf).  for debugging etckeeper.
