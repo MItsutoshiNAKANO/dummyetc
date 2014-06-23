@@ -22,7 +22,7 @@ Name:           dummyetc
 Version:        0
 Release:        0
 Summary:        Create dummy config file /etc/dummyetc.conf
-License:        GPL-3.0 and PDDL-1.0
+License:        GPL-3.0+ and PDDL-1.0
 Group:          System/Management
 Url:            https://github.com/MItsutoshiNAKANO/dummyetc/
 Source0:        https://dl.dropboxusercontent.com/u/86335040/dummyetc/%{name}-%{version}.tar.gz

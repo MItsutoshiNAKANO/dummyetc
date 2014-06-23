@@ -1,0 +1,5 @@
+dummyetc (0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Mitsutoshi NAKANO <bkbin005@rinku.zaq.ne.jp>  Mon, 23 Jun 2014 09:33:21 +0900
