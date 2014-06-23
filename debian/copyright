@@ -2,12 +2,13 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: dummyetc
 Source: https://github.com/MItsutoshiNAKANO/dummyetc
 
-Files: AUTHORS COPYING ChangeLog Makefile.am NEWS README dummyetc.conf
+Files: AUTHORS COPYING ChangeLog Makefile.am NEWS README
+ dummyetc.conf
 Copyright: 2014 Mitsutoshi NAKANO <bkbin005@rinku.zaq.ne.jp>
 License: PDDL-1.0
 
-Files: INSTALL Makefile.in aclocal.m4 configure configure.ac dummyetc.spec
- install-sh missing
+Files: INSTALL Makefile.in aclocal.m4 configure configure.ac
+ dummyetc.spec install-sh missing
 Copyright: 2014 Mitsutoshi NAKANO <bkbin005@rinku.zaq.ne.jp>
 License: GPL-3.0+
 
