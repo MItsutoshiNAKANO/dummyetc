@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8.0.0), autotools-dev
 Standards-Version: 3.9.4
 Homepage: https://github.com/MItsutoshiNAKANO/dummyetc
 #Vcs-Git: git://git.debian.org/collab-maint/dummyetc.git
-Vcs-Git: git@github.com:MItsutoshiNAKANO/dummyetc.git
+Vcs-Git: https://git@github.com:MItsutoshiNAKANO/dummyetc.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/dummyetc.git;a=summary
 
 Package: dummyetc
