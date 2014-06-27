@@ -36,8 +36,3 @@ License: GPL-3.0+
 License: PDDL-1.0
  Plesase see <http://spdx.org/licenses/PDDL-1.0#licenseText>.
 
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
-# Please avoid to pick license terms that are more restrictive than the
-# packaged work, as it may make Debian's contributions unacceptable upstream.
-

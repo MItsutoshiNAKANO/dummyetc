@@ -1,9 +1,9 @@
 Source: dummyetc
-Section: unknown
+Section: admin
 Priority: optional
 Maintainer: Mitsutoshi NAKANO <bkbin005@rinku.zaq.ne.jp>
 Build-Depends: debhelper (>= 8.0.0), autotools-dev
-Standards-Version: 3.9.4
+Standards-Version: 3.9.5
 Homepage: https://github.com/MItsutoshiNAKANO/dummyetc
 #Vcs-Git: git://git.debian.org/collab-maint/dummyetc.git
 Vcs-Git: https://git@github.com:MItsutoshiNAKANO/dummyetc.git
